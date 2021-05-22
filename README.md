@@ -1,4 +1,4 @@
-#Desafio Docker Nginx com Node.js
+# Desafio Docker Nginx com Node.js
 
 Para executar o projeto, rode `docker-compose up -d`.
 
